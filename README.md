@@ -1,5 +1,7 @@
-# digitalizaci-n
+# digitalización
 
-* [Enlace a la otra página](otro.md)
+  ![CodeShop](assets/icono-logo.gif)  
 
-  ![Descripción de la imaen](assets/icono-logo.gif)
+
+* [Siguiente página](otro.md)
+
