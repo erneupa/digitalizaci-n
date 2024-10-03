@@ -1,8 +1,10 @@
-# Esta es la segunda página
+#CodeSHOP
+
+Empresa de servicios informáticos.    
+
+
+
 
 [Volver atrás](README.md)
 
-Hola buenas mira esto de aquí:
 
-- Fotos
-- Videos
