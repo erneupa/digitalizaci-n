@@ -1,7 +1,7 @@
 #CodeSHOP
 
-.                                                        ![CodeShop](assets/icono-logo.gif)  
-                                                          Empresa de servicios informáticos.  
+![CodeShop](assets/icono-logo.gif)  
+Empresa de servicios informáticos.  
 
 
 
