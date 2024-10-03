@@ -2,4 +2,4 @@
 
 * [Enlace a la otra página](otro.md)
 
-  ![Descripción de la imaen](assets/codeshop.png)
+  ![Descripción de la imaen](assets/icono-logo.gif)
